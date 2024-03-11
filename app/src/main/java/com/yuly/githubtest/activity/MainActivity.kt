@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
         
-        binding.tv.setOnClickListener { Toast.makeText(this, "click textviewsss", Toast.LENGTH_SHORT).show() }
+        binding.tv.setOnClickListener { Toast.makeText(this, "click textviewsssㄴ", Toast.LENGTH_SHORT).show() }
     }
 }
